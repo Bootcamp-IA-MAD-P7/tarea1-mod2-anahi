@@ -1,0 +1,17 @@
+[project]
+name = "tarea2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12, <3.14"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "kagglehub>=1.0.1",
+    "matplotlib>=3.10.9",
+    "missingno>=0.5.2",
+    "notebook>=7.5.7",
+    "numpy>=2.4.6",
+    "pandas>=3.0.3",
+    "seaborn>=0.13.2",
+]
